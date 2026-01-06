@@ -31,3 +31,10 @@ I will continue learning how to:
 - Add code blocks
 - Create task lists
 - Use Markdown effectively on GitHub
+## Step 3: Add a Code Example
+
+Below is a simple code block example
+
+```bash
+git init
+```
