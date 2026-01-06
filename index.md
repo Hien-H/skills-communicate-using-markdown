@@ -1,30 +1,33 @@
 # Communicate using Markdown
 
 Welcome to my Markdown practice file 👋  
-This file is part of the GitHub course **Communicate using Markdown**.
+This file is created as part of the GitHub course **Communicate using Markdown**.
 
-## About Me
+## About This File
 
 I am learning how to use Markdown to:
-- Organize ideas
-- Communicate clearly on GitHub
-- Write better issues and pull requests
+- Structure content clearly
+- Communicate better on GitHub
+- Write readable issues and pull requests
 
-## What I Learned in Step 1
+## Step 1: Headers
 
-- How to create headers using `#`
-- That Markdown supports 6 header levels
-- Headers help structure content clearly
+In Step 1, I learned how to:
+- Create headers using `#`
+- Use different header levels
+- Organize content logically
 
-### Header Levels Example
+## Step 2: Add an Image
 
-#### This is a level 4 header
-##### This is a level 5 header
-###### This is a level 6 header
+Below is an example of adding an image using Markdown with alt text.
+
+![Yaktocat mascot from GitHub Octodex](https://octodex.github.com/images/yaktocat.png)
+
+The image above includes descriptive alt-text to support accessibility.
 
 ## Next Steps
 
-I will continue the course and learn how to:
-- Add images
+I will continue learning how to:
 - Add code blocks
 - Create task lists
+- Use Markdown effectively on GitHub
